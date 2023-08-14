@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ShopStuff/static/css/main.7d23ee41.css",
+    "main.js": "/ShopStuff/static/js/main.9db69adf.js",
+    "static/media/computer.png": "/ShopStuff/static/media/computer.5e56530d0ea3793fd73d.png",
+    "static/media/banner.png": "/ShopStuff/static/media/banner.60b57e7c22678c62bf30.png",
+    "static/media/avatar.jpg": "/ShopStuff/static/media/avatar.4bc3b938691acbda7100.jpg",
+    "static/media/devices.png": "/ShopStuff/static/media/devices.a0974f63230d0b90cbec.png",
+    "static/media/shoe.png": "/ShopStuff/static/media/shoe.db601c8f04844976b606.png",
+    "static/media/logo.svg": "/ShopStuff/static/media/logo.fb6afde46b43989ab58d298634d1c757.svg",
+    "index.html": "/ShopStuff/index.html",
+    "main.7d23ee41.css.map": "/ShopStuff/static/css/main.7d23ee41.css.map",
+    "main.9db69adf.js.map": "/ShopStuff/static/js/main.9db69adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d23ee41.css",
+    "static/js/main.9db69adf.js"
+  ]
+}
